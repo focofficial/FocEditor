@@ -24,7 +24,7 @@ FocEditor 是一个基于 Vue.js 的富文本编辑器组件，旨在为你的�
 如果你希望在 Vue 项目中使用 FocEditor，可以通过以下步骤进行集成：
 
 #### 1.安装组件：
-`npm install --save foceditor`
+`npm install --save git+https://github.com/focofficial/FocEditor`
 
 #### 2.在 Vue 组件中引入：
 在你的 Vue 组件中，按照以下方式引入并注册 FocEditor：
