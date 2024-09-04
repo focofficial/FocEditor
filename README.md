@@ -15,7 +15,7 @@ FocEditor 是一个基于 Vue.js 的富文本编辑器组件，旨在为你的�
 你可以通过 GitHub Pages 提供的 CDN URL 来引用 FocEditor 组件。只需在你的 HTML 文件中添加以下标签：
 
 ```html
-<link rel="stylesheet" href="https://github.com/focofficial/FocEditor/foc-editor.css">
+<link rel="stylesheet" href="https://github.com/focofficial/FocEditor/dist/foc-editor.css">
 <script src="https://github.com/focofficial/FocEditor/foc-editor.js"></script>
 ```
 #### 请将 <YOUR_USERNAME> 和 <YOUR_REPOSITORY> 替换为你的 GitHub 用户名和仓库名。
