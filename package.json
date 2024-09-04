@@ -2,8 +2,8 @@
   "name": "foceditor",
   "version": "1.0.0",
   "description": "A rich text editor component for Vue.js",
-  "main": "dist/foc-editor.esm.js",
-  "module": "dist/foc-editor.esm.js",
+  "main": "foc-editor.esm.js",
+  "module": "foc-editor.esm.js",
   "scripts": {
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "rich-text"
   ],
   "exports": {
-    ".": "./dist/foc-editor.esm.js"
+    ".": "foc-editor.esm.js"
   },
   "author": "Your Name",
   "license": "MIT",
