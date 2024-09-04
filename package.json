@@ -1,0 +1,20 @@
+{
+  "name": "foceditor",
+  "version": "1.0.0",
+  "description": "A rich text editor component for Vue.js",
+  "main": "dist/foc-editor.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "editor",
+    "rich-text"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ]
+}
