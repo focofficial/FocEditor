@@ -16,7 +16,7 @@ FocEditor 是一个基于 Vue.js 的富文本编辑器组件，旨在为你的�
 
 ```html
 <link rel="stylesheet" href="https://github.com/focofficial/FocEditor/blob/main/dist/foc-editor.css">
-<script src="https://github.com/focofficial/FocEditor/foc-editor.js"></script>
+<script src="https://github.com/focofficial/FocEditor/blob/main/foc-editor.js"></script>
 ```
 #### 请将 <YOUR_USERNAME> 和 <YOUR_REPOSITORY> 替换为你的 GitHub 用户名和仓库名。
 
